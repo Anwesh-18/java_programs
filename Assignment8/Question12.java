@@ -1,3 +1,5 @@
+package Assignment8;
+
 import java.util.Random;
 class SharedResource {
     int number;
